@@ -1,0 +1,11 @@
+{
+  "name": "controle-produto-modulo-06",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/akadot/atividade-grupo-lets-code.git",
+  "author": "dot_ <muriloholiveira@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
