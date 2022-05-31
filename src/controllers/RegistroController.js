@@ -3,12 +3,13 @@ const { readFile, writeFile } = require("../utils/usingFiles")
 class RegistroController {
 	index(req, res) {
 		return readFile('./src/data/registros.json', (data) => {
-			console.log(data)
-			res.end(JSON.stringify(data))
+			res.end(JSON.stringify(data.registros))
 		})
 	}
 
-	store(req, res) { }
+	store(req, res) {
+
+	}
 
 	update(req, res) { }
 

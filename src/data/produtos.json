@@ -1,8 +1,11 @@
-[
-	{
-		"id": 1,
-		"nome": "Shampoo Para Cachorro",
-		"valor": 19.90,
-		"qtde": 30
-	}
-]
+{
+	"lastID": 1,
+	"produtos": [
+		{
+			"nome": "Ração de Gato",
+			"valor": 59.9,
+			"qtde": 10,
+			"id": 1
+		}
+	]
+}
