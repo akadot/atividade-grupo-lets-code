@@ -1,0 +1,9 @@
+[
+	{
+		"id": 1,
+		"tipo": "compra",
+		"clienteID": 1,
+		"descricao": "compra de 1 shampoo para cachorro",
+		"data": "22-02-2022"
+	}
+]

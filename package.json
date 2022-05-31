@@ -5,6 +5,9 @@
   "repository": "https://github.com/akadot/atividade-grupo-lets-code.git",
   "author": "dot_ <muriloholiveira@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
   "dependencies": {
     "axios": "^0.27.2"
   }
