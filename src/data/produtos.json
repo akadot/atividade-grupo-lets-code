@@ -6,6 +6,12 @@
 			"valor": 19.9,
 			"qtde": 25,
 			"id": 2
+		},
+		{
+			"nome": "Banho e Tosa",
+			"valor": 50,
+			"qtde": 0,
+			"id": 3
 		}
 	]
 }

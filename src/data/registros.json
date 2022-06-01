@@ -1,12 +1,13 @@
 {
-	"lastID": 1,
+	"lastID": 2,
 	"registros": [
 		{
 			"id": 1,
-			"tipo": "compra",
+			"tipo": "Serviço",
 			"clienteID": 1,
-			"descricao": "compra de 1 shampoo para cachorro",
-			"data": "22-02-2022"
+			"produtoID": 3,
+			"descricao": "Banho e Tosa para o cliente 1",
+			"data": "20-06-2022"
 		}
 	]
 }
