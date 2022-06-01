@@ -30,7 +30,7 @@ class ClienteController {
 					atualizaCliente = JSON.parse(atualizaCliente);
 					const clientIndex = data.clientes.indexOf(clientExist)
 					data.clientes[clientIndex] = {
-						id: clientID,
+						id: Number(clientID),
 						nome: atualizaCliente.nome ? atualizaCliente.nome : data.clientes[clientIndex]["nome"],
 						email: atualizaCliente.email ? atualizaCliente.email : data.clientes[clientIndex]["email"],
 						telefone: atualizaCliente.telefone ? atualizaCliente.telefone : data.clientes[clientIndex]["telefone"],
